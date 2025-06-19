@@ -1,3 +1,5 @@
+🐤 Flappy Bird Clone (Python + Pygame)
+
 A simple clone of the classic Flappy Bird game built using Python and Pygame. This project was made for learning purposes and demonstrates the core mechanics of the original game: gravity, flapping, pipe obstacles, collision detection, and score tracking.
 
 🎮 Features
